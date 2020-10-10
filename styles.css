@@ -1,0 +1,94 @@
+body {
+  text-align: center;
+  margin: 0;
+}
+
+.top {
+  background-color: #EAF6F6;
+  image-resolution: center;
+}
+
+.end {
+  background-color: #66BFBF;
+}
+
+hr {
+  border-style: dotted;
+  border-color: grey;
+  width: 5%;
+  border-width: thick 0 0 0;
+  margin-top: 30px;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 500%;
+  margin: auto auto 10px auto;
+}
+
+.d1 {
+  font-family: 'Major Mono Display', monospace;
+  color: #66BFBF;
+  font-weight: bold;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Sansita Swashed', cursive;
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+h4 {
+  color: #EAF6F6;
+}
+
+.cloud1 {
+  position: static;
+  margin-left: 30%;
+  padding-top: 50px;
+}
+
+.cloud2 {
+  margin-bottom: 20%;
+  margin-right: 50%;
+  position: absolute;
+}
+
+a {
+  color: #11999E;
+}
+
+span {
+  width: 100px;
+  display: inline-block;
+}
+
+.middle {
+  width: 30%;
+  margin: auto;
+
+}
+.bottom {
+  width: 40%;
+  margin: auto;
+  text-align: left;
+  line-height: 2;
+}
+.same{
+  width: 30%;
+  float: left;
+  padding-right: 20px;
+
+}
+.same1{
+  width: 30%;
+  float: right;
+
+}
+.myimage{
+  width: 30%;
+}
